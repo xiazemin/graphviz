@@ -1,0 +1,8 @@
+//digraph
+graph g {
+    //rankdir=LR;
+    a -- b;
+    b -- c;
+    //b->c;
+    c -- a;
+}

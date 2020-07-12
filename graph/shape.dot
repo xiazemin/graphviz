@@ -1,0 +1,4 @@
+//定义a节点为长方形, 节点显示的文本为"Hello world"样式为填充, 填充颜色为#ABACBA
+digraph g {
+ a[shape=box,label="Hello world",style=filled,fillcolor="#ABACBA"];
+}
